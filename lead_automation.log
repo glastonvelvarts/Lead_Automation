@@ -1,0 +1,12 @@
+2025-01-18 00:55:53,538 - ERROR - Error scraping Crunchbase: 'Session' object does not support the asynchronous context manager protocol
+2025-01-18 00:55:53,539 - INFO - Completed processing 0 leads for category: software
+2025-01-18 00:55:53,539 - ERROR - Error scraping Crunchbase: 'Session' object does not support the asynchronous context manager protocol
+2025-01-18 00:55:53,539 - INFO - Completed processing 0 leads for category: ecommerce
+2025-01-18 00:55:53,540 - ERROR - Error scraping Crunchbase: 'Session' object does not support the asynchronous context manager protocol
+2025-01-18 00:55:53,540 - INFO - Completed processing 0 leads for category: healthcare
+2025-01-18 00:55:53,541 - ERROR - Error scraping Crunchbase: 'Session' object does not support the asynchronous context manager protocol
+2025-01-18 00:55:53,541 - INFO - Completed processing 0 leads for category: fintech
+2025-01-18 00:55:53,541 - ERROR - Error scraping Crunchbase: 'Session' object does not support the asynchronous context manager protocol
+2025-01-18 00:55:53,542 - INFO - Completed processing 0 leads for category: ai
+2025-01-18 00:55:53,542 - ERROR - Error scraping Crunchbase: 'Session' object does not support the asynchronous context manager protocol
+2025-01-18 00:55:53,542 - INFO - Completed processing 0 leads for category: cybersecurity
