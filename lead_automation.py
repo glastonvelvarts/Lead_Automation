@@ -81,8 +81,6 @@ class LeadAutomation:
             await self.session.close()
             self.session = None
 
-    # ... [rest of the LeadAutomation class methods remain the same] ...
-
 # Define async automation cycle function
 async def run_automation_cycle():
     """Run a complete automation cycle"""
